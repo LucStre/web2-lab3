@@ -1,5 +1,7 @@
 # web2-lab3
 
+application url: https://agile-spire-72155.herokuapp.com/
+
 - interpolation/one-way binding - Da, `src/components/ShoppingList.vue, :2`
 - two-way binding - Da, `src/components/CurrConverter.vue, :14, :15`
 - methods - Da, `src/components/CurrConverter.vue, :43`
